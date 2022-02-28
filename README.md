@@ -11,11 +11,10 @@ website:  https://www.kaggle.com/
 I chose this dataset: https://www.kaggle.com/devinanzelmo/dota-2-matches </br>
 From the link above you can explore the general information about all the datasets, represented 
 on that page. 
-For the analysis we will need the next ones:
+For the analysis we will need the next ones (click Download button from each link to store files):
 - match.csv https://www.kaggle.com/devinanzelmo/dota-2-matches?select=match.csv
 - players.csv https://www.kaggle.com/devinanzelmo/dota-2-matches?select=players.csv
 - hero_names.csv https://www.kaggle.com/devinanzelmo/dota-2-matches?select=hero_names.csv
-
 
 I intentionally did not provide the detail information about these datasets, 
 because all the information including fields description with its types is represented
@@ -23,7 +22,8 @@ on the links above (Kaggle magic!). I don't see any sense to duplicate this info
 
 
 To explore Stages 2 and 3 you need: 
-1. Clone this repository
+1. Clone this repository:</br> 
+> git clone https://github.com/iAnafem/dota2_analysis.git && cd dota2_analysis
 2. Download the datasets specified above and place them inside the directory of cloned repository. </br> The 
 final file tree should look like this:
 ```
@@ -37,6 +37,6 @@ dota2_analysis/
 ```    
 3. Run jupyter notebook, open main.ipynb notebook and run the whole notebook. 
 You need to install jupyter, if you don't have it: https://jupyter.org/install
-Also, please install pandas library.
+> jupyter notebook
 
 Have I nice day!
