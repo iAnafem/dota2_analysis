@@ -16,6 +16,8 @@ For the analysis we will need the next ones (click Download button from each lin
 - players.csv https://www.kaggle.com/devinanzelmo/dota-2-matches?select=players.csv
 - hero_names.csv https://www.kaggle.com/devinanzelmo/dota-2-matches?select=hero_names.csv
 
+(IMPORTANT: If you don't want to register on Kaggle, please, contact me, and I will add csv files to repository)
+
 I intentionally did not provide the detail information about these datasets, 
 because all the information including fields description with its types is represented
 on the links above (Kaggle magic!). I don't see any sense to duplicate this information here.
