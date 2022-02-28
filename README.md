@@ -36,7 +36,7 @@ dota2_analysis/
 │   README.md
 ```    
 3. Run jupyter notebook, open main.ipynb notebook and run the whole notebook. 
-You need to install jupyter, if you don't have the one: https://jupyter.org/install
+You need to install jupyter, if you don't have it: https://jupyter.org/install
 Also, please install pandas library.
 
 Have I nice day!
